@@ -1,3 +1,5 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.2/font/bootstrap-icons.css");
+
 #page-container {
     position: relative;
     min-height: 100vh;
@@ -35,4 +37,8 @@ body {
 
 #footer-container * {
     width: 100%;
+}
+
+.whiteColor {
+    color: white;
 }
